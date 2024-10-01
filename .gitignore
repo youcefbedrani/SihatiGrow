@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Build directory (Webpack output)
+dist/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE or editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Other specific files to ignore
+package-lock.json
+yarn.lock
